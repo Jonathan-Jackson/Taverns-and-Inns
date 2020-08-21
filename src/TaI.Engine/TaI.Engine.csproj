@@ -21,4 +21,10 @@
   <ItemGroup>
     <MonoGameContentReference Include="Content\Content.mgcb" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Content\Characters\HumanMale\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\TaI.Core\TaI.Core.csproj" />
+  </ItemGroup>
 </Project>
